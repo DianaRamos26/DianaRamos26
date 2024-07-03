@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Diana Ramos 
 
 - 🌱Estudando Front-end
-- 🔭 Atualmente estou trabalhando em projetos de bootcamps
+- 🔭 Atualmente estou trabalhando em projetos de bootcamp
 - ☺️ Pronouns: ela/dela
 - 📧 Contate-me no e-mail: dianasilvaramos26@gmail.com
   
