@@ -11,11 +11,23 @@ Conecte-se comigo
 
 
 ### Estatísticas do Github
- <div>
-<a href="https://beacons.ai/dianaramos26">
 
-  ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dianaramos26&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=35&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
+<div>
+<table align="center">
+<tr>
+<br>
+<td><a href="https://github.com/DianaRamos26">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DianaRamos26&show_icons=true&count_private=true&hide_border=true&title_color=FF00F6&icon_color=9400d3&text_color=c9d1d9&bg_color=000" alt="DianaRamos26 github stats"/></td>
+<td><a href="https://github.com/DianaRamos26">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DianaRamos26&layout=compact&hide_border=true&title_color=FF00F6&text_color=9400d3&bg_color=000"alt="DianaRamos26 github stats"/></td>
+</tr>
+</table>
 </div>
+
+<p align="center">
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="100%" height="1">
+</p>
+
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Diana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
