@@ -12,22 +12,10 @@ Conecte-se comigo
 
 ### Estatísticas do Github
 
-<div>
-<table align="center">
-<tr>
-<td>
-  <a href="https://github.com/DianaRamos26">
-    <img height="180" src="https://vercel.app" alt="DianaRamos26 github stats"/>
-  </a>
-</td>
-<td>
-  <a href="https://github.com/DianaRamos26">
-    <img height="180" src="https://vercel.app" alt="DianaRamos26 github stats"/>
-  </a>
-</td>
-</tr>
-</table>
-</div>
+![Estatísticas do GitHub](https://vercel.app)
+
+![Linguagens Mais Usadas](https://vercel.app)
+
 
 
 <p align="center">
