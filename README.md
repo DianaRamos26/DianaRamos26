@@ -20,34 +20,6 @@
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
-
-<div align="left">
-  <img src="https://skillicons.dev" alt="Minhas Tecnologias" />
-</div>
-
----
-
-### 🌐 Conecte-se comigo
-
-<div align="left">
-  <a href="https://instagram.com" target="_blank"><img src="https://shields.io"></a>
-  <a href="mailto:dianasilvaramos26@gmail.com"><img src="https://shields.io"></a>
-  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io"></a>
-</div>
-
----
-
-<p align="center">
-  <a href="https://github.com">
-    <img alt="Testes Aprovados" src="https://github.com" />
-  </a>
-</p>
-
-
-
-
-
 <div>
   <a href="https://github.com/https://github.com/DianaRamos26">
     <div align="center">
