@@ -4,6 +4,28 @@
 - 🔭 Atualmente estou trabalhando em projetos de bootcamp
 - ☺️ Pronouns: ela/dela
 - 📧 Contate-me no e-mail: dianasilvaramos26@gmail.com
+
+
+## Oiii! Eu sou a Diana Ramos
+
+<div>
+  <a href="https://github.com">
+    <img height="180em" src="https://vercel.app" />
+    <img height="180em" src="https://vercel.app" />
+  </a>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Diana-Js" height="30" width="40" src="https://githubusercontent.com">
+  <img align="center" alt="Diana-Ts" height="30" width="40" src="https://githubusercontent.com">
+  <img align="center" alt="Diana-React" height="30" width="40" src="https://githubusercontent.com">
+  <img align="center" alt="Diana-HTML" height="30" width="40" src="https://githubusercontent.com">
+  <img align="center" alt="Diana-CSS" height="30" width="40" src="https://githubusercontent.com">
+  <img align="center" alt="Diana-Python" height="30" width="40" src="https://githubusercontent.com">
+  <img align="center" alt="Diana-Csharp" height="30" width="40" src="https://githubusercontent.com">
+  <img align="center" alt="Diana-yoda" height="30" width="40" src="https://discordapp.com">
+</div>
+
   
 Conecte-se comigo
 
