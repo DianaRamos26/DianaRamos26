@@ -139,16 +139,10 @@
 
 
 
+<br>
+<br>
+<br>
 
-
-<!-- Suas tecnologias e textos antigos aqui -->
-Linguagens e Tecnologias
-...
-
-<br>
-<br>
-<br>
-<br>
 
 
 
