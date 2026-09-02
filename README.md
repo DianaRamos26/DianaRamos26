@@ -32,6 +32,9 @@ Conecte-se comigo
   <br />
   <a href="https://vercel.com?utm\_source=github\_readme\_stats\_team\&utm\_campaign=oss">
     <img src="./powered-by-v
+<a href="https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss">
+   <img src="./powered-by-vercel.svg" />
+</a>
 
 
 
