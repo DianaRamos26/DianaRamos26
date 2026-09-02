@@ -6,8 +6,6 @@
 - 📧 Contate-me no e-mail: dianasilvaramos26@gmail.com
 
 
-## Oiii! Eu sou a Diana Ramos
-
 <div>
   <a href="https://github.com">
     <img height="180em" src="https://vercel.app" />
