@@ -169,7 +169,9 @@
 </picture>
 
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DianaRamos26/DianaRamos26/output/pacman.svg" alt="Pac-Man Contribution Graph">
+</p>
 
 
 
