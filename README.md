@@ -5,6 +5,47 @@
 - ☺️ Pronouns: ela/dela
 - 📧 Contate-me no e-mail: dianasilvaramos26@gmail.com
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub de Diana" />
+      </td>
+      <td>
+        <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas por Diana" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="left">
+  <img src="https://skillicons.dev" alt="Minhas Tecnologias" />
+</div>
+
+---
+
+### 🌐 Conecte-se comigo
+
+<div align="left">
+  <a href="https://instagram.com" target="_blank"><img src="https://shields.io"></a>
+  <a href="mailto:dianasilvaramos26@gmail.com"><img src="https://shields.io"></a>
+  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io"></a>
+</div>
+
+---
+
+<p align="center">
+  <a href="https://github.com">
+    <img alt="Testes Aprovados" src="https://github.com" />
+  </a>
+</p>
+
+
+
 
 
 <div>
