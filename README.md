@@ -10,12 +10,25 @@ Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/dianaramos26)
 
 
-### Estatísticas do Github
+### 🛠️ Tecnologias e Ferramentas
 
-<div align="center">
-  <img height="180" src="https://vercel.app" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://vercel.app" alt="Linguagens mais usadas" />
+<div align="left">
+  <img src="https://skillicons.dev" alt="Minhas Tecnologias" />
 </div>
+
+---
+
+### 🌐 Conecte-se comigo
+
+<div align="left">
+  <a href="https://youtube.com" target="_blank"><img src="https://shields.io" target="_blank"></a>
+  <a href="https://instagram.com" target="_blank"><img src="https://shields.io" target="_blank"></a>
+  <a href="https://twitch.tv" target="_blank"><img src="https://shields.io" target="_blank"></a>
+  <a href="https://discord.com" target="_blank"><img src="https://shields.io" target="_blank"></a>
+  <a href="mailto:dianasilvaramos26@gmail.com"><img src="https://shields.io"></a>
+  <a href="https://www.linkedin.com/in/dianaramos26" target="_blank"><img src="https://shields.io" target="_blank"></a>
+</div>
+
 
 
 <p align="center">
