@@ -6,6 +6,8 @@
 - 📧 Contate-me no e-mail: dianasilvaramos26@gmail.com
 
 
+
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -146,40 +148,10 @@
 
 
 
-
-
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub de Diana" />
-      </td>
-      <td>
-        <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas por Diana" />
-      </td>
-    </tr>
-  </table>
-</div>
-
 ---
 
-<div>
-  <a href="https://github.com/https://github.com/DianaRamos26">
-    <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub de Diana" />
-      </td>
-      <td>
-        <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas por Diana" />
-      </td>
-    </tr>
-  </table>
-</div>
-  
 
+  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/dianaramos26)
 
 <p align="center">
