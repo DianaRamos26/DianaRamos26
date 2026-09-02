@@ -19,7 +19,7 @@ Conecte-se comigo
 <td><a href="https://github.com/DianaRamos26">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DianaRamos26&show_icons=true&count_private=true&hide_border=true&title_color=FF00F6&icon_color=9400d3&text_color=c9d1d9&bg_color=000" alt="DianaRamos26 github stats"/></td>
 <td><a href="https://github.com/DianaRamos26">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DianaRamos26&layout=compact&hide_border=true&title_color=FF00F6&text_color=9400d3&bg_color=000"alt="DianaRamos26 github stats"/></td>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DianaRamos26&layout=compact&hide_border=true&title_color=FF00F6&text_color=9400d3&bg_color=000"alt="DianaRamos26 github stats"/></td>
 </tr>
 </table>
 </div>
@@ -31,8 +31,8 @@ Conecte-se comigo
 
 <div align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,mysql,git,github,vscode,figma,stackoverflow"/>
-  </a>
+   <img src="https://skillicons.dev" />
+</a>
 </div>
 
 
