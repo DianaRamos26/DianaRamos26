@@ -13,16 +13,7 @@
   </a>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Diana-Js" height="30" width="40" src="https://githubusercontent.com">
-  <img align="center" alt="Diana-Ts" height="30" width="40" src="https://githubusercontent.com">
-  <img align="center" alt="Diana-React" height="30" width="40" src="https://githubusercontent.com">
-  <img align="center" alt="Diana-HTML" height="30" width="40" src="https://githubusercontent.com">
-  <img align="center" alt="Diana-CSS" height="30" width="40" src="https://githubusercontent.com">
-  <img align="center" alt="Diana-Python" height="30" width="40" src="https://githubusercontent.com">
-  <img align="center" alt="Diana-Csharp" height="30" width="40" src="https://githubusercontent.com">
-  <img align="center" alt="Diana-yoda" height="30" width="40" src="https://discordapp.com">
-</div>
+
 
   
 Conecte-se comigo
