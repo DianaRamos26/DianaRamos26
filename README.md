@@ -9,11 +9,18 @@
 
 <div>
   <a href="https://github.com/https://github.com/DianaRamos26">
-     <img height="180em" src="https://vercel.app" />
-    <img height="180em" src="https://vercel.app" />
-  </a>
+    <div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub de Diana" />
+      </td>
+      <td>
+        <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas por Diana" />
+      </td>
+    </tr>
+  </table>
 </div>
-
 
 
   
