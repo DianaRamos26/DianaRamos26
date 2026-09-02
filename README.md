@@ -160,13 +160,7 @@
 
 
 <!-- Pecman -->
-<picture>
-    
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DianaRamos26/DianaRamos26/output/pacman.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DianaRamos26/DianaRamos26/output/pacman.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DianaRamos26/DianaRamos26/output/pacman.svg">
 
-</picture>
 
 
 <p align="center">
