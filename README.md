@@ -116,6 +116,8 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+
 <img 
     align="left" 
     alt="Python" 
@@ -157,11 +159,13 @@
 
 
 
-
+<!-- Pecman -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DianaRamos26/DianaRamos26/output/pacman.svg">
+    
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DianaRamos26/DianaRamos26/output/pacman.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DianaRamos26/DianaRamos26/output/pacman.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DianaRamos26/DianaRamos26/output/pacman.svg">
+
 </picture>
 
 
