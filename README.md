@@ -36,8 +36,6 @@ Conecte-se comigo
    <img src="./powered-by-vercel.svg" />
 </a>
 
-<p align="center">Gostou do projeto? Considere <a href="https://paypal.me">doar</a> para apoiar o criador original!</p>
-
 
 ---
 
