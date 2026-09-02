@@ -12,9 +12,10 @@ Conecte-se comigo
 
 ### Estatísticas do Github
 
-![Gráfico de Commits](https://herokuapp.com)
-
-![Estatísticas Extras](https://vercel.app)
+<div align="center">
+  <img height="180" src="https://vercel.app" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://vercel.app" alt="Linguagens mais usadas" />
+</div>
 
 
 <p align="center">
