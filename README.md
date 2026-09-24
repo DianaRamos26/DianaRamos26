@@ -1,19 +1,12 @@
-# Olá, eu sou a Diana Ramos! 👋
+# Olá, Diana Ramos aqui! 👋
 
-### 💻 Desenvolvedora Front-end & UX/UI Designer
-Estudante de Tecnologia na **FIAP** e focada em construir produtos digitais com propósito, refinamento estético e foco na experiência do usuário (UX).
+### 
+💻 Sou Estudante de Tecnologia 
 
 ---
 
-### 🚀 Tecnologias & Ferramentas
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+
+
 
 ---
 
@@ -42,6 +35,3 @@ Estudante de Tecnologia na **FIAP** e focada em construir produtos digitais com 
 
 ---
 
-### 📬 Como me encontrar
-* 💼 **LinkedIn:** [://linkedin.com](https://linkedin.com)
-* 🌐 **Portfólio Profissional:** [dianaramos26.github.io/Portif-lio-profissional](https://github.io)
