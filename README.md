@@ -1,9 +1,22 @@
+## Hi there 👋
 
-# Olá! Eu sou a Diana Ramos 👩‍💻
+Este é o meu repositório especial do GitHub.
 
-### 🐍 Meus Gráficos de Contribuição:
+### 👩‍💻 Sobre Mim
+* 🔭 Atualmente estou trabalhando em ...
+* 🌱 Atualmente estou aprendendo ...
+* 👯 Estou buscando colaborar em ...
+* 🤔 Estou buscando ajuda com ...
+* 💬 Pergunte-me sobre ...
+* 📫 Como me encontrar: ...
+* ⚡ Fato curioso: ...
+
+
+
+---
+
+### 🕹️ Meus Gráficos de Contribuição (Jogos Arcade)
 
 ![](github-contribution-grid-snake.svg)
 
 ![](github-contribution-grid-pacman.gif)
-
