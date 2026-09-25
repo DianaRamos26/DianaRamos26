@@ -41,14 +41,7 @@
 
 <br />
 
-<!-- Seu Gráfico de Contribuição do Pac-Man Corrigido -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-    <img alt="pacman contribution graph" src="https://githubusercontent.com">
-  </picture>
-</div>
+
 
 
 
