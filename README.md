@@ -6,13 +6,10 @@
 
 
 
- <div>
-  <a href="https://github.com">
-    <img height="180em" src="https://vercel.app" />
-    <img height="180em" src="https://vercel.app" />
-  </a>
+<div>
+  <img height="180em" src="https://vercel.app" />
+  <img height="180em" src="https://vercel.app" />
 </div>
-<br />
 
 ---
 
