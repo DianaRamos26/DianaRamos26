@@ -7,8 +7,10 @@
 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-one-bice.vercelapp" />
-  <img height="180em" src="https://github-readme-stats-one-bice.vercelapp" />
+  <a href="https://github.com">
+    <img height="180em" src="https://vercel.app" />
+    <img height="180em" src="https://vercel.app" />
+  </a>
 </div>
 
 
