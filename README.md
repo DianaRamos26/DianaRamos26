@@ -6,12 +6,11 @@
 - 😎 Pronouns: ela/dela
 
 
-<div>
-  <a href="https://github.com/DianaRamos26">
-    <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=DianaRamos26&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=DianaRamos26&layout=compact&langs_count=16&theme=dracula" />
-  </a>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-one-bice.vercelapp" />
+  <img height="180em" src="https://github-readme-stats-one-bice.vercelapp" />
 </div>
+
 
 
 
