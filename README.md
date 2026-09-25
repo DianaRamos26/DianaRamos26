@@ -6,10 +6,6 @@
 - 😎 Pronouns: ela/dela
 
 
-<div align="center">
-  <img width="49%" src="https://vercel.app" />
-  <img width="49%" src="https://herokuapp.com" />
-</div>
 
 
 
