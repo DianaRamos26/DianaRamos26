@@ -34,18 +34,21 @@
 
 ###
 
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=v1ih&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <!-- Seu Card de Streak oficial atualizado -->
+  <img src="https://demolab.com" height="150" alt="streak graph" />
 </div>
 
-### 
+<br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DianaRamos26/DianaRamos26/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/v1ih/v1ih/output/pacman-contribution-graph.svg">
-</picture>
+<!-- Seu Gráfico de Contribuição do Pac-Man Corrigido -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+    <img alt="pacman contribution graph" src="https://githubusercontent.com">
+  </picture>
+</div>
 
 
 
