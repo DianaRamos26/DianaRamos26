@@ -7,11 +7,10 @@
 
 
 <div align="center">
-  <a href="https://github.com">
-    <img width="49%" src="https://vercel.app" />
-    <img width="49%" src="https://vercel.app" />
-  </a>
+  <img width="49%" src="https://vercel.app" />
+  <img width="49%" src="https://herokuapp.com" />
 </div>
+
 
 
 
