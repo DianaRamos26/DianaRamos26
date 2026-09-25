@@ -35,13 +35,8 @@
 ###
 
 <div align="center">
-  <!-- Seu Card de Streak oficial atualizado -->
   <img src="https://demolab.com" height="150" alt="streak graph" />
 </div>
-
-<br />
-
-
 
 
 
